@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Clay87
+- 👀 I’m interested in networking and setting up workstations.
+- 🌱 I’m currently learning Information Technology, C++, SQL, Javascript, HTML, CSS. 
+- 📫 How to reach me - claybradford@outlook.com
